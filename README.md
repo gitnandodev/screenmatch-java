@@ -1,50 +1,35 @@
-# 🚀 Projeto Java Simples
+# Java Project 🚀
 
-![build](https://img.shields.io/badge/build-passing-brightgreen) ![java](https://img.shields.io/badge/java-11%2B-blue)
+A minimal Java starter with a clean structure and quick setup.
 
-## 📝 Descrição
-- Template mínimo em Java com ponto de entrada em `src/Main.java`. Ideal para testes rápidos e ensino.
+## ✨ Features
+- ✅ Simple and clear layout
+- ⚙️ Ready to build and run on Windows
+- 🧪 Easy to extend with tests
 
-## 🗂️ Índice
-- 📄 Descrição
-- ✅ Requisitos
-- 🛠️ Como compilar e executar (Windows)
-- 📁 Estrutura do projeto
-- 🧭 Convenções
-- 🤝 Contribuição
-- 📝 Licença
-- 👤 Autor
+## 🚀 Getting Started
+1. Clone the repository:
+2. Open the project in your IDE (IntelliJ IDEA recommended).
+3. Build and run using the IDE or command line.
 
-## ✅ Requisitos
-- JDK 11 ou superior instalado.
-- (Opcional) `JAVA_HOME` configurada.
-
-## 🛠️ Como compilar e executar (Windows)
+## 🛠️ Build & Run (Command Line)
 - Compile:
-    
-    javac -d out src/Main.java
+- Run:
+## 📁 Project Structure
+- `src` \- Source files (Java)
+- `out` \- Compiled classes (generated)
+- `README.md` \- Project overview
 
-- Execute:
-    
-    java -cp out Main
+## 🧩 Usage
+- Edit `src\Main.java` to add your application logic.
+- Create packages and classes as the project grows.
 
-## 📁 Estrutura do projeto
-- `src/` \- código-fonte.
-- `out/` \- artefatos compilados (gerado após compilação).
-- `src/Main.java` \- classe principal com `main`.
+## 🤝 Contributing
+- Open an issue or pull request with a clear description.
+- Keep changes small and focused.
 
-## 🧭 Convenções
-- Código simples e legível.
-- Commits pequenos e mensagens descritivas.
-- Usar nomes significativos para classes e métodos.
+## 📄 License
+- Add your preferred license file at the repository root (e.g., `LICENSE`).
 
-## 🤝 Contribuição
-- Abra um `issue` para discutir mudanças.
-- Envie Pull Requests com um único objetivo por PR.
-- Inclua descrições claras e, se possível, testes.
-
-## 📝 Licença
-- Adicione um arquivo `LICENSE` conforme necessário (ex.: MIT).
-
-## 👤 Autor
-- `gitnandodev` — repositório de exemplo.
+## ✉️ Contact
+- Add maintainer contact or project links here.
